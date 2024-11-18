@@ -56,8 +56,8 @@ The project uses two datasets:
 ## Insights and Conclusions
 Key findings and patterns observed during the analysis:
 
---> Mumbai city has hosted the maximum number of matches across all the seasons followed by Bangalore and Kolkata. <br>
---> The run-rate of an inning is highest during the Death-overs(16-20). <br>
+- Mumbai city has hosted the maximum number of matches across all the seasons followed by Bangalore and Kolkata. <br>
+- The run-rate of an inning is highest during the Death-overs(16-20). <br>
 --> Suresh Raina, Virat Kohli and Gautam Gambhir are the top-3 run-scorers. <br>
 --> There is a positive linear relationship between batsman's runs and the number of balls faced. <br>
 --> Caught(getting catch-out) is the most common way of dismissal and more than 50% players in each team get out that way.<br>
