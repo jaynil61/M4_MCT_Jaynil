@@ -58,19 +58,19 @@ Key findings and patterns observed during the analysis:
 
 - Mumbai city has hosted the maximum number of matches across all the seasons followed by Bangalore and Kolkata. <br>
 - The run-rate of an inning is highest during the Death-overs(16-20). <br>
---> Suresh Raina, Virat Kohli and Gautam Gambhir are the top-3 run-scorers. <br>
---> There is a positive linear relationship between batsman's runs and the number of balls faced. <br>
---> Caught(getting catch-out) is the most common way of dismissal and more than 50% players in each team get out that way.<br>
---> Getting bowled is the second most common way of dismissal for players in all the teams followd by run-out and LBW(Leg Before Wicket).<br>
---> Kochi Tuskers Kerala is the team where maximum number of players have got run-out and bowled-out. <br>
---> Death overs(16 to 20) are the time when bowlers tend to be more successful in taking wickets. Specially the last three overs have registered the maximum number of wickets. <br>
---> In the context of the initial phase of an inning, the last two overs of the powerplay(5 and 6) show a great chance of taking wickets. Hence, the captain should try to bring their best bowler in this overs. <br>
---> MS Dhoni has been dismissed maximum times by Prgyan Ojha. Rohit Sharma has struggled against the bowlers Ashish Nehra, Vinay Kumar, Axar Patel and Sunil Naraine. Virat Kohli has been dismissed maximum times by Bhuvneshvar Kumar followed by Sandeep Sharma. <br>
---> Chris gayle and Virat kohli have maximum runs(1600) in partnerships followed by David Warner and Shikhar Dhavan(1400 runs).<br>
---> HV Patel has the strike-rate of almost 250 against Rajasthan Royals. <br>
---> Average of the total runs scored per ball was lowest in season of 2009. Howerver, it has shown immense growth in the seasons after 2014. <br> 
---> Getting catch-out has been the most common way of dismissal in all the seasons, followed by getting bowled and run-out. However, there have not been any noticeable shifts in how batsmen are getting out over time. <br>
---> The scores of the first-innings tend to be higher compared to the second-innings. <br>
---> There have been some matches where the number of wide deliveries were more than 23. <br>
---> The no-ball runs were maximum in the season of 2011. However they have been reduced continuously after that season. 
+- Suresh Raina, Virat Kohli and Gautam Gambhir are the top-3 run-scorers. <br>
+- There is a positive linear relationship between batsman's runs and the number of balls faced. <br>
+- Caught(getting catch-out) is the most common way of dismissal and more than 50% players in each team get out that way.<br>
+- Getting bowled is the second most common way of dismissal for players in all the teams followd by run-out and LBW(Leg Before Wicket).<br>
+- Kochi Tuskers Kerala is the team where maximum number of players have got run-out and bowled-out. <br>
+- Death overs(16 to 20) are the time when bowlers tend to be more successful in taking wickets. Specially the last three overs have registered the maximum number of wickets. <br>
+- In the context of the initial phase of an inning, the last two overs of the powerplay(5 and 6) show a great chance of taking wickets. Hence, the captain should try to bring their best bowler in this overs. <br>
+- MS Dhoni has been dismissed maximum times by Prgyan Ojha. Rohit Sharma has struggled against the bowlers Ashish Nehra, Vinay Kumar, Axar Patel and Sunil Naraine. Virat Kohli has been dismissed maximum times by Bhuvneshvar Kumar followed by Sandeep Sharma. <br>
+- Chris gayle and Virat kohli have maximum runs(1600) in partnerships followed by David Warner and Shikhar Dhavan(1400 runs).<br>
+- HV Patel has the strike-rate of almost 250 against Rajasthan Royals. <br>
+- Average of the total runs scored per ball was lowest in season of 2009. Howerver, it has shown immense growth in the seasons after 2014. <br> 
+- Getting catch-out has been the most common way of dismissal in all the seasons, followed by getting bowled and run-out. However, there have not been any noticeable shifts in how batsmen are getting out over time. <br>
+- The scores of the first-innings tend to be higher compared to the second-innings. <br>
+- There have been some matches where the number of wide deliveries were more than 23. <br>
+- The no-ball runs were maximum in the season of 2011. However they have been reduced continuously after that season. 
 
